@@ -8,9 +8,8 @@
   <a href="https://instagram.com/shuhaib.saad">Facebook</a> •
 </p>
 
-| I am from **Kerala**  |
-|---|---|
-| <img src ="https://telegra.ph/file/77c49a02da6d155594638.jpg" width = "200px">  |
+I am from **Kerala**
+<img src ="https://telegra.ph/file/77c49a02da6d155594638.jpg" width = "200px">
 
 **🔭 Current Project:** Websourse
 
