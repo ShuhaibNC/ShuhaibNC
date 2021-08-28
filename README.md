@@ -6,15 +6,6 @@
         />
     </a>
 </p>
-
-<p align="left">
-  • <a href="https://t.me/shuhaibnc">Telegram</a>
-  • <a href="https://shuhaib.webnode.com">Web</a>
-  • <a href="https://twitter.com/shuhaib_n_c">Twitter</a>
-  • <a href="https://instagram.com/shuhaib.n.c">Instagram</a>
-  • <a href="https://instagram.com/shuhaib.saad">Facebook</a>
-</p>
-
 <ul align="center" style="list-style-type:none;">
 <samp>
 <li>🏷️ My name is <b>Shuhaib N C</b> 😎</li>
