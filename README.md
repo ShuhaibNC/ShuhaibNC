@@ -8,7 +8,7 @@
 </p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🔖 I'm <b>Shuhaib N C</b> 😎</li>
+<li>🔖 I'm <b>Shuhaib</b> 😎</li>
 <li>🎓 I'm 12th finished student</li>
 <li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a>, etc.</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/ShuhaibNC?tab=repositories">GitHub</a></li>
