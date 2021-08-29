@@ -14,7 +14,7 @@
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/ShuhaibNC?tab=repositories">GitHub</a></li>
 <li>⌨️ And i know Ethical Hacking, Android Programming, Linux.
 <li>🌐 I'm living in <a href="https://maps.google.com/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=105527503691172920898.00047060104719efd8b52">Kozhikode, Kerala, India</a> 🇮🇳</li>
-<li>🎂 I'm born on 13th September in 2004, and I am a 17 years old boy</li>
+<li>🎂 I'm born on 13th September in 2004, and I am a 16 years old boy</li>
 </samp>
 </ul>
 
