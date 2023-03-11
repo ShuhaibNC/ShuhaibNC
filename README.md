@@ -1,21 +1,12 @@
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<h1 align="center">I'm ShuhaibNC 🌌✨ 🌚 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShuhaibNC&label=Profile%20views&color=0e75b6&style=flat" alt="ShuhaibNC" /> </p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🔖 I'm <b>Shuhaib</b> 😎</li>
-<li>🎓 I'm 12th finished student</li>
-<li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a>, etc.</li>
+<li>🎓 B.sc Computer Science Student</li>
+<li>🖥️ Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/ShuhaibNC?tab=repositories">GitHub</a></li>
 <li>⌨️ And i know Ethical Hacking, Android Programming, Linux.
 <li>🌐 I'm living in <a href="https://maps.google.com/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=105527503691172920898.00047060104719efd8b52">Kozhikode, Kerala, India</a> 🇮🇳</li>
-<li>🎂 I'm born on 13th September in 2004, and I am a 16 years old boy</li>
-</samp>
 </ul>
 
 
