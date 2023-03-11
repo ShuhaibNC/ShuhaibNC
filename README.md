@@ -1,5 +1,5 @@
 <h1 align="center">I'm ShuhaibNC 🌌✨ 🌚 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShuhaibNC&label=Profile%20views&color=0e75b6&style=flat" alt="ShuhaibNC" /> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <ul align="center" style="list-style-type:none;">
 <samp>
 <li>🎓 B.sc Computer Science Student</li>
