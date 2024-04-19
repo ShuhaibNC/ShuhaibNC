@@ -18,7 +18,7 @@
             alt="Twitter"
         />
     </a>
-    <a href="https://instagram.com/shuhaibncofficial">
+    <a href="https://instagram.com/shuhaib.n.c">
         <img
             src="https://img.shields.io/badge/Instagram-D92D77?&style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"
