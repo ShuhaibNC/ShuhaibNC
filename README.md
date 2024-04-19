@@ -1,4 +1,4 @@
-<h1 align="center">I'm ShuhaibNC 🌌✨ 🌚 </h1>
+<h1 align="center">I'm ShuhaibNC 🌌✨ </h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC" /></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
