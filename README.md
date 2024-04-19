@@ -54,7 +54,7 @@
             alt="Stack Overflow"
         />
     </a>
-    <a href="https://www.linkedin.com/in/shuhaib-nc-386834167/">
+    <a href="https://www.linkedin.com/in/shuhaibnc/">
         <img
             src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin"
             alt="LinkedIn"
