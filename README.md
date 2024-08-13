@@ -59,11 +59,11 @@
     </a>
 </p>
 
+![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaibNC&hide=css,html&theme=tokyonight)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShuhaibNC&theme=darcula&border_radius=30&mode=weekly&fire=02DDD7)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShuhaibNC&theme=darkhub)](https://github.com/ShuhaibNC/github-profile-trophy)
-
-#
-
-![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=tokyonight)
