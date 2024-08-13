@@ -3,11 +3,11 @@
 <ul align="center" style="list-style-type:none;">
 <samp>
 <li>🎓 B.Sc. in Computer Science</li>
-<li>🖥️ Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
+<li>🖥️ Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
 <li>⌨️ I know Ethical Hacking, Android Programming, Linux.
 </ul>
 
-<h2 align="center">ACCOUNTS 📌 </h2>
+<h2 align="center">ACCOUNTS 📌</h2>
 <p align="center">
     <a href="https://twitter.com/Shuhaib_n_c">
         <img
