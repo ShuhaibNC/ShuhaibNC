@@ -4,7 +4,7 @@
 <samp>
 <li>🎓 B.Sc Computer Science Student</li>
 <li>🖥️ Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
-<li>⌨️ And i know Ethical Hacking, Android Programming, Linux.
+<li>⌨️ I know Ethical Hacking, Android Programming, Linux.
 </ul>
 
 <h2 align="center">ACCOUNTS 📌 </h2>
