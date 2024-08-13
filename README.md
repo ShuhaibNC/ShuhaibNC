@@ -9,6 +9,12 @@
 
 <h2 align="center">ACCOUNTS 📌</h2>
 <p align="center">
+    <a href="https://telegram.me/ShuhaibNC">
+        <img
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+            alt="Telegram"
+        />
+    </a>
     <a href="https://twitter.com/Shuhaib_n_c">
         <img
             src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
@@ -21,12 +27,7 @@
             alt="GitLab"
         />
     </a>
-    <a href="https://telegram.me/ShuhaibNC">
-        <img
-            src="https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram"
-            alt="Telegram"
-        />
-    </a>
+    
     <a href="https://stackoverflow.com/users/15123053/shuhaib-n-c">
         <img
             src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow"
