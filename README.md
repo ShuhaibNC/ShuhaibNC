@@ -27,12 +27,8 @@
             alt="GitLab"
         />
     </a>
-    
     <a href="https://stackoverflow.com/users/15123053/shuhaib-n-c">
-        <img
-            src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow"
-            alt="Stack Overflow"
-        />
+        <img src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow alt="Stack Overflow" />
     </a>
     <a href="https://www.linkedin.com/in/shuhaibnc/">
         <img
