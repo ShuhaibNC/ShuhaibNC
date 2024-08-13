@@ -58,11 +58,9 @@
         />
     </a>
 </p>
-##
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShuhaibNC&theme=darcula&border_radius=30&mode=weekly&fire=02DDD7)](https://git.io/streak-stats)
 
-# 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShuhaibNC&theme=darkhub)](https://github.com/ShuhaibNC/github-profile-trophy)
 
