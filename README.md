@@ -15,18 +15,6 @@
             alt="Twitter"
         />
     </a>
-    <a href="https://instagram.com/shuhaib.n.c">
-        <img
-            src="https://img.shields.io/badge/Instagram-D92D77?&style=for-the-badge&logoColor=white&logo=instagram"
-            alt="Instagram"
-        />
-    </a>
-    <a href="https://www.youtube.com/channel/UC4jZNeoLkCgaAfKdx9B37sA">
-        <img
-            src="https://img.shields.io/badge/YouTube-FA0001?&style=for-the-badge&logoColor=white&logo=youtube"
-            alt="YouTube"
-        />
-    </a>
     <a href="https://gitlab.com/ShuhaibNC">
         <img
             src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
@@ -37,12 +25,6 @@
         <img
             src="https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram"
             alt="Telegram"
-        />
-    </a>
-    <a href="https://www.quora.com/profile/Shuhaib-N-C">
-        <img
-            src="https://img.shields.io/badge/Quora-C41A00?&style=for-the-badge&logo=quora"
-            alt="Quora"
         />
     </a>
     <a href="https://stackoverflow.com/users/15123053/shuhaib-n-c">
