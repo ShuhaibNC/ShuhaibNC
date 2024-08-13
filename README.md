@@ -2,8 +2,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC" /></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🎓 B.Sc Computer Science Student</li>
-<li>🖥️ Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
+<li>🎓 B.Sc. in Computer Science</li>
+<li>🖥️ Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
 <li>⌨️ I know Ethical Hacking, Android Programming, Linux.
 </ul>
 
