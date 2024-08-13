@@ -2,15 +2,12 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC" /></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>🎓 B.sc Computer Science Student</li>
+<li>🎓 B.Sc Computer Science Student</li>
 <li>🖥️ Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a>, etc..</li>
-<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/ShuhaibNC?tab=repositories">GitHub</a></li>
 <li>⌨️ And i know Ethical Hacking, Android Programming, Linux.
-<li>🌐 I'm living in <a href="https://maps.google.com/maps/ms?ie=UTF8&oe=UTF8&msa=0&msid=105527503691172920898.00047060104719efd8b52">Kozhikode, Kerala, India</a> 🇮🇳</li>
 </ul>
 
-
-<h2 align="center">My Accounts 📌 </h2>
+<h2 align="center">ACCOUNTS 📌 </h2>
 <p align="center">
     <a href="https://twitter.com/Shuhaib_n_c">
         <img
