@@ -1,4 +1,4 @@
-<h1 align="center">I'm <img src="PicsArt_23-04-29_13-38-31-756.png"/></h1>
+<h1 align="center">I'm Shuhaib N C</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC" /></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
@@ -8,6 +8,7 @@
 </ul>
 
 <h2 align="center">ACCOUNTS 📌</h2>
+
 <p align="center">
     <a href="https://telegram.me/ShuhaibNC">
         <img
@@ -37,6 +38,8 @@
         />
     </a>
 </p>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=213556" style='border:none;'></iframe>
 
 ![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=dark)
 
