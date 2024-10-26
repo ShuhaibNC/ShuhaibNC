@@ -39,7 +39,7 @@
     </a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=213556" style='border:none;'></iframe>
+![Shuhaib's TryHackMe](https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png)
 
 ![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=dark)
 
