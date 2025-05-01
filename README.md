@@ -3,8 +3,8 @@
 <ul align="center" style="list-style-type:none;">
 <samp>
 <li>Hobbyist Developer</li>
-<li>🖥️ Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
-<li>⌨️ I know Ethical Hacking, Android Programming, Linux.
+<li>Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
+<li>I know Ethical Hacking, Android Programming, Linux.
 </ul>
 
 <h2 align="center">ACCOUNTS 📌</h2>
@@ -44,8 +44,5 @@
 ![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaibNC&hide=css,html&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShuhaibNC&theme=darcula&border_radius=30&mode=weekly&fire=02DDD7)](https://git.io/streak-stats)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShuhaibNC&theme=darkhub)](https://github.com/ShuhaibNC/github-profile-trophy)
