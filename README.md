@@ -16,7 +16,7 @@
             alt="Telegram"
         />
     </a>
-    <a href="https://twitter.com/Shuhaib_n_c">
+    <a href="https://x.com/realshuhaib">
         <img
             src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
             alt="Twitter"
@@ -27,9 +27,6 @@
             src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
             alt="GitLab"
         />
-    </a>
-    <a href="https://stackoverflow.com/users/15123053/shuhaib-n-c">
-        <img src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow alt="Stack Overflow" />
     </a>
     <a href="https://www.linkedin.com/in/shuhaibnc/">
         <img
