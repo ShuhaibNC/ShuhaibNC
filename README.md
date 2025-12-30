@@ -1,4 +1,4 @@
-<h1 align="center">I'm<img src="https://github.com/ShuhaibNC/ShuhaibNC/blob/main/icon_xx" alt="ShuhaibNC"/></h1>
+<h1 align="center">I'm<br><img src="https://raw.githubusercontent.com/ShuhaibNC/ShuhaibNC/refs/heads/main/icon_x.png" alt="ShuhaibNC"/></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC"/></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
