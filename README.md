@@ -1,10 +1,10 @@
-<h1 align="center">I'm Shuhaib N C</h1>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC" /></p>
+<h1 align="center">I'm<img src="https://github.com/ShuhaibNC/ShuhaibNC/blob/main/icon_xx" alt="ShuhaibNC"/></h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC"/></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
-<li>Hobbyist Developer</li>
-<li>Deeply Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
-<li>I know Ethical Hacking, Android Programming, Linux.
+<li>Cybersecurity Researcher</li>
+<li>Deeply Learning <a href="https://www.kernel.org/">Linux</a>, Networking, <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
+<li>I know Ethical Hacking, Android Programming and Reverse Engineering.
 </ul>
 
 <h2 align="center">ACCOUNTS 📌</h2>
@@ -35,11 +35,7 @@
         />
     </a>
 </p>
-
-![Shuhaib's TryHackMe](https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png)
-
-![Shuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaibNC&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuhaibNC&hide=css,html&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShuhaibNC&theme=darkhub)](https://github.com/ShuhaibNC/github-profile-trophy)
+<p align="center">
+<br>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png" alt="TryHackMe Shuhaib"></img>
+<p>
