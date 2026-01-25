@@ -37,5 +37,5 @@
 </p>
 <p align="center">
 <br>
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=213556" style='border:none;' alt="TryHackMe Shuhaib" ></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png" alt="ShuhaibNC" />
 <p>
