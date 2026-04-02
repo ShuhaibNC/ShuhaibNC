@@ -7,8 +7,6 @@
 <li>I know Ethical Hacking, Android Programming and Reverse Engineering.
 </ul>
 
-<h2 align="center">ACCOUNTS 📌</h2>
-
 <p align="center">
     <a href="https://telegram.me/ShuhaibNC">
         <img
