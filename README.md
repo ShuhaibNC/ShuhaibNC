@@ -1,4 +1,7 @@
 <h1 align="center">I'm<br><b>ShuhaibNC</b></h1>
+<p align=center>
+    <img src="https://c.tenor.com/irz5AADjf0MAAAAC/tenor.gif" />
+</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC&style=for-the-badge"/></p>
 <ul align="center" style="list-style-type:none;">
 <samp>
