@@ -1,4 +1,5 @@
-<h1 align="center">I'm<br><b>ShuhaibNC</b></h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Nerd+Font&weight=600&size=44&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=root%40shuhaib%23+whoami;ACCESS_GRANTED;I'm+ShuhaibNC;I+Break+Softwares;I+Break+Security;I+Break+Systems" alt="Typing SVG" /></h1>
 <p align=center>
     <img src="https://c.tenor.com/irz5AADjf0MAAAAC/tenor.gif" />
 </p>
@@ -51,7 +52,13 @@
 <p align=center>
     <img src="https://github-trophies.vercel.app/?username=shuhaibnc&theme=onestar&no-frame=true&no-bg=false&margin-w=15&&margin-h=15&column=4&row=2" alt="GitHub Trophies">
 </p>
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuhaibnc&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shuhaibnc&theme=dark" />
