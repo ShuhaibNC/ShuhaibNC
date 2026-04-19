@@ -4,7 +4,7 @@
     <img src="https://c.tenor.com/irz5AADjf0MAAAAC/tenor.gif" />
 </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ShuhaibNC&style=for-the-badge"/></p>
-<ul align="center" style="list-style-type:none;">
+<ul align="center">
 <samp>
 <li>Cybersecurity Researcher</li>
 <li>Deeply Learning <a href="https://www.kernel.org/">Linux</a>, Networking, <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">Bash</a></li>
@@ -46,9 +46,8 @@
     <img src="https://skillicons.dev/icons?i=bash,md,c,java,py,django,mysql,html,css" />
 </p>
 <p align="center">
-<br>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png" alt="ShuhaibNC" />
-<p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/shuhaibnc.png" alt="ShuhaibNC" />
+</p>
 <p align=center>
     <img src="https://github-trophies.vercel.app/?username=shuhaibnc&theme=onestar&no-frame=true&no-bg=false&margin-w=15&&margin-h=15&column=4&row=2" alt="GitHub Trophies">
 </p>
@@ -65,4 +64,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shuhaibnc&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuhaibnc&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuhaibnc&theme=dark&utcOffset=8" />
+</p>
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=shuhaibnc&show_user=header&width=650&bg_color=000000" />
 </p>
