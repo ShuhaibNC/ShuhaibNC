@@ -65,6 +65,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shuhaibnc&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shuhaibnc&theme=dark&utcOffset=8" />
 </p>
-<p align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=shuhaibnc&show_user=header&width=680&bg_color=151515" />
-</p>
